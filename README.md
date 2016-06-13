@@ -19,3 +19,12 @@ TODO: After player has selected answer, he is prompted by program to confirm his
 
 TODO: If one answer given is invalid, game must display Game over message and terminate.
 TODO: If all answers are given correctly, game must congratulate the user.
+
+TODO: Needed functions
+      Start Game
+      Select Quiz Type
+      Select Difficulty Level
+      Select Correct Answer
+      Show Feedback and Hints
+      Use 50/50 Joker
+      Show accumulated points
